@@ -102,7 +102,7 @@ Points clés :
 - `setenforce 1` — configuration de SELinux en mode Enforcing (mode par défaut, le serveur Frida fonctionne néanmoins)
 - `/data/local/tmp/frida-server` — lancement du démon d'instrumentation qui écoute en local et attend les connexions du client Frida côté PC
 
-![frida-server lancé sur l'émulateur](4.png)
+
 
 ---
 
